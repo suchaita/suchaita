@@ -2,7 +2,7 @@
 
 # Hi there, I'm Suchaita Halder 👋
 
-### Aspiring Machine Learning Engineer | B.Tech CSE 
+### Aspiring Machine Learning Engineer 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=suchaita&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
@@ -22,7 +22,6 @@ I am a Computer Science and Engineering student at the Swami Vivekananda Institu
 I am passionate about solving real-world problems with data. To strengthen my practical skills, I actively build projects that challenge my understanding of algorithms, model evaluation, and data preprocessing. I maintain a strong growth mindset—always curious, open to feedback, and dedicated to continuous improvement in my engineering journey.
 
 **Quick Facts:**
-- 🎓 **Education:** B.Tech in CSE 
 - 📍 **Location:** Howrah, West Bengal, India
 - 💡 **Focus:** Machine Learning, Data Analytics, and Backend Integration
 - 🤝 **Collaboration:** Always open to discussing AI/ML projects and tech trends.
