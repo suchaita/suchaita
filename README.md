@@ -64,12 +64,12 @@ I am passionate about solving real-world problems with data. To strengthen my pr
 | Project Name | Description | Tech Stack | Link |
 |--------------|-------------|------------|------|
 | **Python Data Cleaning Tool** | Automates handling missing values, duplicate records, and preprocessing tasks for ML workflows. | `Python`, `Pandas`, `NumPy` | [[View Code](#)](https://github.com/suchaita/python-data-cleaning-tool) |
-| **Student Score Prediction** | Predicts student performance using Linear Regression, evaluated with standard regression metrics. | `Python`, `Scikit-Learn` | [View Code](#) |
-| **Iris Flower Classification** | Explores regression techniques and classifies Iris flowers using supervised learning algorithms. | `Python`, `Scikit-Learn` | [View Code](#) |
-| **Breast Cancer Classification (LR)** | Binary classification project for predicting breast cancer diagnosis using Logistic Regression. | `Python`, `Scikit-Learn` | [View Code](#) |
-| **Breast Cancer Classification (RF)** | Compares ensemble learning performance (Random Forest) on breast cancer datasets. | `Python`, `Scikit-Learn` | [View Code](#) |
-| **Tic Tac Toe Web App** | Web application supporting gameplay logic and backend integration. | `Python`, `Flask`, `HTML/CSS` | [View Code](#) |
-| **DSA Master Repository** | Structured repo containing Data Structures and Algorithms implementations, dry runs, and notes. | `C++`, `Java` | [View Code](#) |
+| **Student Score Prediction** | Predicts student performance using Linear Regression, evaluated with standard regression metrics. | `Python`, `Scikit-Learn` | [[View Code](#) ](https://github.com/suchaita/Machine_Learning_Projects)|
+| **Iris Flower Classification** | Explores regression techniques and classifies Iris flowers using supervised learning algorithms. | `Python`, `Scikit-Learn` | [[View Code](#)](https://github.com/suchaita/Ardent_ML_Internship/tree/main/Project%201) |
+| **Breast Cancer Classification (LR)** | Binary classification project for predicting breast cancer diagnosis using Logistic Regression. | `Python`, `Scikit-Learn` | [[View Code](#) ](https://github.com/suchaita/Ardent_ML_Internship/tree/main/Project%202)|
+| **Breast Cancer Classification (RF)** | Compares ensemble learning performance (Random Forest) on breast cancer datasets. | `Python`, `Scikit-Learn` | [[View Code](#)](https://github.com/suchaita/Ardent_ML_Internship/tree/main/Project%204) |
+| **Tic Tac Toe Web App** | Web application supporting gameplay logic and backend integration. | `Python`, `Flask`, `HTML/CSS` | [[View Code](#)](https://github.com/suchaita/Game) |
+| **DSA Master Repository** | Structured repo containing Data Structures and Algorithms implementations, dry runs, and notes. | `C++`, `Java` | [[View Code](#) ](https://github.com/suchaita/DSA-Github)|
 
 ---
 
