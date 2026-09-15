@@ -63,7 +63,7 @@ I am passionate about solving real-world problems with data. To strengthen my pr
 
 | Project Name | Description | Tech Stack | Link |
 |--------------|-------------|------------|------|
-| **Python Data Cleaning Tool** | Automates handling missing values, duplicate records, and preprocessing tasks for ML workflows. | `Python`, `Pandas`, `NumPy` | [View Code](#) |
+| **Python Data Cleaning Tool** | Automates handling missing values, duplicate records, and preprocessing tasks for ML workflows. | `Python`, `Pandas`, `NumPy` | [[View Code](#)](https://github.com/suchaita/python-data-cleaning-tool) |
 | **Student Score Prediction** | Predicts student performance using Linear Regression, evaluated with standard regression metrics. | `Python`, `Scikit-Learn` | [View Code](#) |
 | **Iris Flower Classification** | Explores regression techniques and classifies Iris flowers using supervised learning algorithms. | `Python`, `Scikit-Learn` | [View Code](#) |
 | **Breast Cancer Classification (LR)** | Binary classification project for predicting breast cancer diagnosis using Logistic Regression. | `Python`, `Scikit-Learn` | [View Code](#) |
