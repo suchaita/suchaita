@@ -94,21 +94,3 @@ I am actively seeking roles where I can contribute, learn, and grow alongside ex
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=suchaita&show_icons=true&hide_border=true&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=333333" alt="Suchaita's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suchaita&hide_border=true&theme=transparent&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="Suchaita's GitHub Streak" width="48%" />
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchaita&layout=compact&hide_border=true&theme=transparent&title_color=0e75b6&text_color=333333" alt="Top Languages" width="60%" />
-
-</div>
-
-<!-- Contribution Graph (Optional standard way to display grid if you want it prominent, though GitHub shows it naturally below README) -->
-<div align="center">
-  <h3>Contribution Activity</h3>
-  <img src="https://ghchart.rshah.org/0e75b6/suchaita" alt="Suchaita's Contribution Graph" width="80%" />
-</div>
