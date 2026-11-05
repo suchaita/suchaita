@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/suchaita">
-    <img src="https://komarev.com/ghpvc/?username=suchaita&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=suchaita&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -28,28 +26,42 @@
 
 ## 🧰 Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java" />
+  <img src="https://skillicons.dev/icons?i=python,java" alt="Python and Java" />
 </p>
 
-### Machine Learning & Data Science
+### 📊 Data Science & Machine Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,matplotlib" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
 </p>
 
-### Web Technologies & Database
+**Core Concepts & Skills**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask,mysql" />
+  <img src="https://img.shields.io/badge/Regression-2E8B57?style=for-the-badge&logoColor=white" alt="Regression" />
+  <img src="https://img.shields.io/badge/Classification-4682B4?style=for-the-badge" alt="Classification" />
+  <img src="https://img.shields.io/badge/Data_Preprocessing-7952B3?style=for-the-badge" alt="Data Preprocessing" />
+  <img src="https://img.shields.io/badge/Feature_Engineering-D97706?style=for-the-badge" alt="Feature Engineering" />
+  <img src="https://img.shields.io/badge/Exploratory_Data_Analysis-008B8B?style=for-the-badge" alt="Exploratory Data Analysis" />
 </p>
 
-### Tools & Development
+### 🌐 Web Technologies & Database
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+  <img src="https://skillicons.dev/icons?i=html,css,flask,mysql" alt="HTML, CSS, Flask and MySQL" />
+</p>
+
+### ⚙️ Tools & Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" alt="Git, GitHub, VS Code and Jupyter" />
 </p>
 
 ---
@@ -57,6 +69,7 @@
 ## 📂 Projects
 
 ### 🧹 Python Data Cleaning Tool
+
 A reusable Python module built with Pandas to simplify common data-cleaning operations.
 
 - Handling missing values and duplicate records
@@ -64,6 +77,7 @@ A reusable Python module built with Pandas to simplify common data-cleaning oper
 - Reusable data-cleaning functions
 
 ### 🎮 Tic Tac Toe Game Suite
+
 A Python-based game featuring multiple AI difficulty levels.
 
 - Easy — Random move selection
@@ -72,17 +86,21 @@ A Python-based game featuring multiple AI difficulty levels.
 - Two-player mode
 
 ### 📈 Student Score Prediction
+
 A Machine Learning project using Linear Regression to predict student scores based on study-related data.
 
 ### 🌸 Iris Flower Classification
+
 A classification project exploring supervised Machine Learning techniques using the Iris dataset.
 
 ### 🩺 Breast Cancer Prediction
+
 Classification experiments using:
 - Logistic Regression
 - Random Forest Classifier
 
 ### 📊 Regression Experiments
+
 Hands-on experimentation with regression models, predictive performance, and model evaluation.
 
 ---
@@ -123,8 +141,6 @@ A final-year project focused on helping users discover and understand books and 
 
 ---
 
-
-
 <!--
 ## 📊 GitHub Statistics
 
@@ -137,7 +153,6 @@ A final-year project focused on helping users discover and understand books and 
   <img src="https://streak-stats.demolab.com?user=suchaita&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 -->
-
 
 ---
 
