@@ -54,10 +54,8 @@ Regression · Classification · Data preprocessing · Feature engineering · Exp
 | Project | What I explored |
 | --- | --- |
 | [**Python Data Cleaning Tool**](https://github.com/suchaita/python-data-cleaning-tool) | A modular Pandas tool for cleaning CSV data, handling missing values, removing duplicate rows, and saving cleaned output. |
-| [**Student Performance Prediction**](https://github.com/suchaita/Machine_Learning_Projects) | A Jupyter notebook exploring a student score prediction workflow, including a from-scratch Linear Regression implementation. |
 | [**Tic Tac Toe Game Suite**](https://github.com/suchaita/Game) | Four Python game modes, from random moves and win/block heuristics to a Minimax AI, plus two-player play. |
-| [**Iris Classification & Linear Regression**](https://github.com/suchaita/Ardent_ML_Internship/tree/main/Project%201) | A learning notebook covering regression concepts and Iris classification with K-Nearest Neighbors. |
-| **Breast Cancer Classification** · [Logistic Regression](https://github.com/suchaita/Ardent_ML_Internship/tree/main/Project%202) · [Random Forest](https://github.com/suchaita/Ardent_ML_Internship/tree/main/Project%204) | Two notebook experiments using scikit-learn’s breast cancer dataset and classification workflows. |
+| **Machine Learning notebook projects** | Student score prediction with a from-scratch Linear Regression model, Iris classification with K-Nearest Neighbors, and breast cancer classification experiments with Logistic Regression and Random Forest. |
 
 ## Currently building
 
