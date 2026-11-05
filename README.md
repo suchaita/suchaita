@@ -1,96 +1,91 @@
 <div align="center">
 
-# Hi there, I'm Suchaita Halder 👋
+# Hey, I'm Suchaita Halder 👋
 
-### Aspiring Machine Learning Engineer 
+### Aspiring Machine Learning Engineer passionate about solving real-world problems with data.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suchaita&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
+*Computer Science student • curious about how things work • learning by building*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=flat-square&logo=linkedin)](https://linkedin.com/in/suchaita-halder-579311315)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-ea4335?style=flat-square&logo=gmail)](mailto:suchaitahalder20@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/suchaita-halder-579311315)
+[![GitHub](https://img.shields.io/badge/GitHub-suchaita-181717?style=flat-square&logo=github)](https://github.com/suchaita)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## A little about me
 
-I am a Computer Science and Engineering student at the Swami Vivekananda Institute of Science and Technology (SVIST), graduating in 2027. My current academic and technical focus is transitioning deeply into the field of Machine Learning and Data Science. 
+I’m pursuing a **B.Tech in Computer Science and Engineering** at **Swami Vivekananda Institute of Science and Technology, Kolkata** (Class of 2027). I’m especially interested in Machine Learning, Python, and Data Science—and I like turning new ideas into small, practical projects.
 
-I am passionate about solving real-world problems with data. To strengthen my practical skills, I actively build projects that challenge my understanding of algorithms, model evaluation, and data preprocessing. I maintain a strong growth mindset—always curious, open to feedback, and dedicated to continuous improvement in my engineering journey.
+- 📍 Howrah, West Bengal, India
+- 🎓 CGPA: 8.31
+- 🌱 Building my foundations one experiment at a time
 
-**Quick Facts:**
-- 📍 **Location:** Howrah, West Bengal, India
-- 💡 **Focus:** Machine Learning, Data Analytics, and Backend Integration
-- 🤝 **Collaboration:** Always open to discussing AI/ML projects and tech trends.
+## Tools I’m exploring
 
----
+I’m actively learning and practicing these tools and concepts:
 
-## 🛠️ Technical Stack
-
-**Programming Languages**
+**Programming**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Java · basic](https://img.shields.io/badge/Java-Basic-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**Machine Learning & Data Science**
+**Machine Learning & data**  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 
-**Web Development & Databases**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+Regression · Classification · Data preprocessing · Feature engineering · Exploratory data analysis
 
-**Tools & Platforms**
+**Building & workflow**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-learning-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-learning-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+## Things I’ve built
+
+| Project | What I explored |
+| --- | --- |
+| [**Python Data Cleaning Tool**](https://github.com/suchaita/python-data-cleaning-tool) | A modular Pandas tool for cleaning CSV data, handling missing values, removing duplicate rows, and saving cleaned output. |
+| [**Student Performance Prediction**](https://github.com/suchaita/Machine_Learning_Projects) | A Jupyter notebook exploring a student score prediction workflow, including a from-scratch Linear Regression implementation. |
+| [**Tic Tac Toe Game Suite**](https://github.com/suchaita/Game) | Four Python game modes, from random moves and win/block heuristics to a Minimax AI, plus two-player play. |
+| [**Iris Classification & Linear Regression**](https://github.com/suchaita/Ardent_ML_Internship/tree/main/Project%201) | A learning notebook covering regression concepts and Iris classification with K-Nearest Neighbors. |
+| **Breast Cancer Classification** · [Logistic Regression](https://github.com/suchaita/Ardent_ML_Internship/tree/main/Project%202) · [Random Forest](https://github.com/suchaita/Ardent_ML_Internship/tree/main/Project%204) | Two notebook experiments using scikit-learn’s breast cancer dataset and classification workflows. |
+
+## Currently building
+
+### Infopidea · AI-powered library and research discovery
+
+An ongoing collaborative final-year project. I’m focusing on the **AI Document Intelligence** module: exploring PDF text extraction, summaries, key concepts and findings, reading difficulty and prerequisites, document Q&A, research paper analysis, and related-resource discovery.
+
+*This project is under development.*
+
+## My learning trail
+
+Right now I’m strengthening my Python and OOP skills, working through ML fundamentals, and getting more comfortable with NumPy, Pandas, preprocessing, feature engineering, regression, classification, and model evaluation. I’m also making time for statistics, SQL, database basics, and data structures and algorithms—one step and one notebook at a time.
+
+## GitHub activity
+
+These cards are generated from my public GitHub activity and repositories.
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=suchaita&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub profile statistics for Suchaita" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchaita&layout=compact&hide_border=true&theme=tokyonight" alt="Most-used languages in Suchaita's public repositories" />
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
 
-<!-- Replace the '#' in the href attributes with your actual GitHub repository links -->
+**Thanks for stopping by — I’m learning, building, and getting a little better with every project. 🌱**
 
-| Project Name | Description | Tech Stack | Link |
-|--------------|-------------|------------|------|
-| **Python Data Cleaning Tool** | Automates handling missing values, duplicate records, and preprocessing tasks for ML workflows. | `Python`, `Pandas`, `NumPy` | [[View Code](#)](https://github.com/suchaita/python-data-cleaning-tool) |
-| **Student Score Prediction** | Predicts student performance using Linear Regression, evaluated with standard regression metrics. | `Python`, `Scikit-Learn` | [[View Code](#) ](https://github.com/suchaita/Machine_Learning_Projects)|
-| **Iris Flower Classification** | Explores regression techniques and classifies Iris flowers using supervised learning algorithms. | `Python`, `Scikit-Learn` | [[View Code](#)](https://github.com/suchaita/Ardent_ML_Internship/tree/main/Project%201) |
-| **Breast Cancer Classification (LR)** | Binary classification project for predicting breast cancer diagnosis using Logistic Regression. | `Python`, `Scikit-Learn` | [[View Code](#) ](https://github.com/suchaita/Ardent_ML_Internship/tree/main/Project%202)|
-| **Breast Cancer Classification (RF)** | Compares ensemble learning performance (Random Forest) on breast cancer datasets. | `Python`, `Scikit-Learn` | [[View Code](#)](https://github.com/suchaita/Ardent_ML_Internship/tree/main/Project%204) |
-| **Tic Tac Toe Web App** | Web application supporting gameplay logic and backend integration. | `Python`, `Flask`, `HTML/CSS` | [[View Code](#)](https://github.com/suchaita/Game) |
-| **DSA Master Repository** | Structured repo containing Data Structures and Algorithms implementations, dry runs, and notes. | `C++`, `Java` | [[View Code](#) ](https://github.com/suchaita/DSA-Github)|
-
----
-
-## 📚 Currently Learning
-
-I am currently deepening my knowledge in the following areas to build a robust foundation for a career in Data Science and AI:
-
-- **Machine Learning Fundamentals**
-- **Feature Engineering & Data Preprocessing**
-- **Core Algorithms:** Decision Trees, K-Nearest Neighbors (KNN)
-- **Model Evaluation Techniques**
-- **Data Structures & Algorithms (DSA)**
-
----
-
-## 🎯 Open To Opportunities
-
-I am actively seeking roles where I can contribute, learn, and grow alongside experienced professionals. I am currently open to:
-- 💼 **Machine Learning Internships**
-- 📊 **Data Science Internships**
-- 🤝 **AI/ML Project Collaborations**
-- 🧠 **Mentorship & Learning Opportunities**
-
----
-
+</div>
