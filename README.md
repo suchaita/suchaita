@@ -17,10 +17,6 @@
 
 I’m pursuing a **B.Tech in Computer Science and Engineering** at **Swami Vivekananda Institute of Science and Technology, Kolkata** (Class of 2027). I’m especially interested in Machine Learning, Python, and Data Science—and I like turning new ideas into small, practical projects.
 
-- 📍 Howrah, West Bengal, India
-- 🎓 CGPA: 8.31
-- 🌱 Building my foundations one experiment at a time
-
 ## Tools I’m exploring
 
 I’m actively learning and practicing these tools and concepts:
