@@ -1,85 +1,54 @@
-<div align="center">
+# Hey, I'm Suchaita — an aspiring Machine Learning Engineer 👋
 
-# Hey, I'm Suchaita Halder 👋
-
-### Aspiring Machine Learning Engineer passionate about solving real-world problems with data.
-
-*Computer Science student • curious about how things work • learning by building*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/suchaita-halder-579311315)
-[![GitHub](https://img.shields.io/badge/GitHub-suchaita-181717?style=flat-square&logo=github)](https://github.com/suchaita)
-
-</div>
-
----
+I'm a Computer Science student who enjoys exploring how technology works and turning what I learn into practical projects. I'm especially interested in Machine Learning, Python, and Data Science, and I'm building my foundations one experiment at a time.
 
 ## A little about me
 
-I’m pursuing a **B.Tech in Computer Science and Engineering** at **Swami Vivekananda Institute of Science and Technology, Kolkata** (Class of 2027). I’m especially interested in Machine Learning, Python, and Data Science—and I like turning new ideas into small, practical projects.
+- 🎓 I'm pursuing a **B.Tech in Computer Science and Engineering** at **Swami Vivekananda Institute of Science and Technology, Kolkata** (graduating in 2027; **CGPA: 8.31**).
+- 📍 I'm based in **Howrah, West Bengal, India**.
+- 🧠 I like understanding the ideas behind a tool or model, then trying them out with code and data.
+- 🌱 I'm learning steadily and working toward becoming a Machine Learning Engineer.
 
-## Tools I’m exploring
+[GitHub](https://github.com/suchaita) · [LinkedIn](https://linkedin.com/in/suchaita-halder-579311315)
 
-I’m actively learning and practicing these tools and concepts:
+## Things I've built / am building
 
-**Programming**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java · basic](https://img.shields.io/badge/Java-Basic-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+### Python Data Cleaning Tool
 
-**Machine Learning & data**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+A small, modular Python project using Pandas to clean CSV data, handle missing values, remove duplicate rows, and save the cleaned output. It helped me practice reusable code and organizing a project into separate modules.
 
-Regression · Classification · Data preprocessing · Feature engineering · Exploratory data analysis
+[Explore the project](https://github.com/suchaita/python-data-cleaning-tool)
 
-**Building & workflow**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-learning-000000?style=flat-square&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-learning-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+### Tic Tac Toe Game Suite
 
-## Things I’ve built
+A Python game suite with four modes: random computer moves, win/block logic, a Minimax AI, and two-player play. Building the different modes gave me a practical way to explore game logic and algorithms.
 
-| Project | What I explored |
-| --- | --- |
-| [**Python Data Cleaning Tool**](https://github.com/suchaita/python-data-cleaning-tool) | A modular Pandas tool for cleaning CSV data, handling missing values, removing duplicate rows, and saving cleaned output. |
-| [**Tic Tac Toe Game Suite**](https://github.com/suchaita/Game) | Four Python game modes, from random moves and win/block heuristics to a Minimax AI, plus two-player play. |
-| **Machine Learning notebook projects** | Student score prediction with a from-scratch Linear Regression model, Iris classification with K-Nearest Neighbors, and breast cancer classification experiments with Logistic Regression and Random Forest. |
+[Explore the project](https://github.com/suchaita/Game)
 
-## Currently building
+### Machine Learning notebook projects
 
-### Infopidea · AI-powered library and research discovery
+I've been experimenting with student score prediction using a from-scratch Linear Regression model, Iris flower classification with K-Nearest Neighbors, and breast cancer classification with Logistic Regression and Random Forest.
 
-An ongoing collaborative final-year project. I’m focusing on the **AI Document Intelligence** module: exploring PDF text extraction, summaries, key concepts and findings, reading difficulty and prerequisites, document Q&A, research paper analysis, and related-resource discovery.
+### Infopidea — AI-powered library and research discovery
 
-*This project is under development.*
+I'm collaborating on this **ongoing final-year project** and focusing on its AI Document Intelligence module. I'm exploring PDF text extraction, summaries, key concepts and findings, reading difficulty and prerequisites, document Q&A, research paper analysis, and related-resource discovery.
 
-## My learning trail
+*Still under development.*
 
-Right now I’m strengthening my Python and OOP skills, working through ML fundamentals, and getting more comfortable with NumPy, Pandas, preprocessing, feature engineering, regression, classification, and model evaluation. I’m also making time for statistics, SQL, database basics, and data structures and algorithms—one step and one notebook at a time.
+## What I'm exploring
 
-## GitHub activity
+- Python, advanced OOP, and data structures and algorithms
+- Machine Learning fundamentals, regression, and classification
+- NumPy, Pandas, data preprocessing, and feature engineering
+- Statistical Learning Theory and model evaluation
+- SQL and database fundamentals
 
-These cards are generated from my public GitHub activity and repositories.
+## My approach
 
-<div align="center">
+I don't need to know everything already. I want to stay curious, understand the problem, try ideas, learn from what breaks, and keep improving.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=suchaita&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub profile statistics for Suchaita" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchaita&layout=compact&hide_border=true&theme=tokyonight" alt="Most-used languages in Suchaita's public repositories" />
-
-</div>
+**Build with curiosity. Learn from every experiment. Make it a little better.**
 
 ---
 
-<div align="center">
-
-**Thanks for stopping by — I’m learning, building, and getting a little better with every project. 🌱**
-
-</div>
+*Always learning, always building.*
