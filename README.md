@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
 </p>
 
-**Core Concepts & Skills**
+#### Core Concepts & Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Regression-2E8B57?style=for-the-badge&logoColor=white" alt="Regression" />
@@ -52,17 +52,27 @@
   <img src="https://img.shields.io/badge/Exploratory_Data_Analysis-008B8B?style=for-the-badge" alt="Exploratory Data Analysis" />
 </p>
 
+
+
+
 ### 🌐 Web Technologies & Database
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,flask,mysql" alt="HTML, CSS, Flask and MySQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 ### ⚙️ Tools & Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" alt="Git, GitHub, VS Code and Jupyter" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
 </p>
+
 
 ---
 
