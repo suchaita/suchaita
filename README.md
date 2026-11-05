@@ -1,54 +1,160 @@
-# Hey, I'm Suchaita — an aspiring Machine Learning Engineer 👋
 
-I'm a Computer Science student who enjoys exploring how technology works and turning what I learn into practical projects. I'm especially interested in Machine Learning, Python, and Data Science, and I'm building my foundations one experiment at a time.
 
-## A little about me
+<h1 align="center">Hi, I'm Suchaita Halder 👋</h1>
 
-- 🎓 I'm pursuing a **B.Tech in Computer Science and Engineering** at **Swami Vivekananda Institute of Science and Technology, Kolkata** (graduating in 2027; **CGPA: 8.31**).
-- 📍 I'm based in **Howrah, West Bengal, India**.
-- 🧠 I like understanding the ideas behind a tool or model, then trying them out with code and data.
-- 🌱 I'm learning steadily and working toward becoming a Machine Learning Engineer.
+<h3 align="center">Aspiring Machine Learning Engineer | Computer Science Undergraduate</h3>
 
-[GitHub](https://github.com/suchaita) · [LinkedIn](https://linkedin.com/in/suchaita-halder-579311315)
+<p align="center">
+  Passionate about solving real-world problems with data.
+</p>
 
-## Things I've built / am building
-
-### Python Data Cleaning Tool
-
-A small, modular Python project using Pandas to clean CSV data, handle missing values, remove duplicate rows, and save the cleaned output. It helped me practice reusable code and organizing a project into separate modules.
-
-[Explore the project](https://github.com/suchaita/python-data-cleaning-tool)
-
-### Tic Tac Toe Game Suite
-
-A Python game suite with four modes: random computer moves, win/block logic, a Minimax AI, and two-player play. Building the different modes gave me a practical way to explore game logic and algorithms.
-
-[Explore the project](https://github.com/suchaita/Game)
-
-### Machine Learning notebook projects
-
-I've been experimenting with student score prediction using a from-scratch Linear Regression model, Iris flower classification with K-Nearest Neighbors, and breast cancer classification with Logistic Regression and Random Forest.
-
-### Infopidea — AI-powered library and research discovery
-
-I'm collaborating on this **ongoing final-year project** and focusing on its AI Document Intelligence module. I'm exploring PDF text extraction, summaries, key concepts and findings, reading difficulty and prerequisites, document Q&A, research paper analysis, and related-resource discovery.
-
-*Still under development.*
-
-## What I'm exploring
-
-- Python, advanced OOP, and data structures and algorithms
-- Machine Learning fundamentals, regression, and classification
-- NumPy, Pandas, data preprocessing, and feature engineering
-- Statistical Learning Theory and model evaluation
-- SQL and database fundamentals
-
-## My approach
-
-I don't need to know everything already. I want to stay curious, understand the problem, try ideas, learn from what breaks, and keep improving.
-
-**Build with curiosity. Learn from every experiment. Make it a little better.**
+<p align="center">
+  <a href="https://github.com/suchaita">
+    <img src="https://komarev.com/ghpvc/?username=suchaita&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+</p>
 
 ---
 
-*Always learning, always building.*
+## 👩‍💻 About Me
+
+- 🎓 B.Tech in Computer Science & Engineering — Expected 2027
+- 🤖 Aspiring Machine Learning Engineer
+- 📊 Interested in Machine Learning, Data Analysis, and Artificial Intelligence
+- 🌱 Currently strengthening my foundations in Python, statistics, and Machine Learning
+- 💡 Enjoy building practical projects and learning through experimentation
+
+---
+
+## 🧰 Tech Stack
+
+### Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java" />
+</p>
+
+### Machine Learning & Data Science
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,matplotlib" />
+</p>
+
+### Web Technologies & Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask,mysql" />
+</p>
+
+### Tools & Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+</p>
+
+---
+
+## 📂 Projects
+
+### 🧹 Python Data Cleaning Tool
+A reusable Python module built with Pandas to simplify common data-cleaning operations.
+
+- Handling missing values and duplicate records
+- Working with CSV datasets
+- Reusable data-cleaning functions
+
+### 🎮 Tic Tac Toe Game Suite
+A Python-based game featuring multiple AI difficulty levels.
+
+- Easy — Random move selection
+- Medium — Winning and blocking strategies
+- Hard — Minimax algorithm
+- Two-player mode
+
+### 📈 Student Score Prediction
+A Machine Learning project using Linear Regression to predict student scores based on study-related data.
+
+### 🌸 Iris Flower Classification
+A classification project exploring supervised Machine Learning techniques using the Iris dataset.
+
+### 🩺 Breast Cancer Prediction
+Classification experiments using:
+- Logistic Regression
+- Random Forest Classifier
+
+### 📊 Regression Experiments
+Hands-on experimentation with regression models, predictive performance, and model evaluation.
+
+---
+
+## 📚 Currently Learning
+
+| Area | Focus |
+|---|---|
+| Python | OOP, Exception Handling, Advanced Concepts |
+| Data Analysis | NumPy, Pandas, Data Visualization |
+| Machine Learning | Regression, Classification |
+| Data Preprocessing | Encoding, Scaling, Feature Engineering |
+| Model Evaluation | Precision, Recall, Cross-Validation |
+| Statistics | Bias-Variance, Overfitting, Statistical Learning |
+| DSA | Sorting Algorithms, Problem Solving |
+| Database | MySQL |
+
+---
+
+## 🚀 Featured Ongoing Project
+
+### AI-Powered Intelligent Library & Research Discovery System
+
+A final-year project focused on helping users discover and understand books and research papers through intelligent recommendations and AI-powered document analysis.
+
+**Current Module: AI Document Intelligence**
+
+- 📄 PDF text extraction using PyMuPDF
+- 📝 Automatic document summarization
+- 🔍 Key concept and finding extraction
+- 🎯 Document difficulty classification
+- 📖 Prerequisite identification
+- 💬 Question answering from uploaded documents
+- 🧪 Research paper analysis, including methodology and limitations
+- 🔗 Related resource discovery
+
+*Currently under development.*
+
+---
+
+
+
+<!--
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=suchaita&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchaita&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=suchaita&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
+-->
+
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/suchaita">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/suchaita-halder-579311315/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Learning continuously. Building consistently. Growing with every project.</i> 🌱
+</p>
+
